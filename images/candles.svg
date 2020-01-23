@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="candles" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 180.9 180.9" style="enable-background:new 0 0 180.9 180.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:#D89C7B;}
+	.st4{fill:#FAB38C;}
+	.st5{opacity:0.54;fill:#FBE18C;enable-background:new    ;}
+	.st6{fill:#815742;}
+	.st7{fill:url(#SVGID_3_);}
+	.st8{fill:url(#SVGID_4_);}
+	.st9{fill:url(#SVGID_5_);}
+	.st10{fill:url(#SVGID_6_);}
+	.st11{fill:#F7941D;}
+	.st12{fill:#FBB040;}
+	.st13{fill:#FFE1A9;}
+
+  #small, #smallTwo, #smallThree{
+  transition: transform 2s ease-in-out;
+  }
+
+  #candles:hover #small{
+  transform-origin: center;
+  animation: littleFire 1s infinite;
+  }
+
+  #candles:hover #middle{
+  transform-origin: center;
+  animation: middleFire 1s infinite;
+  }
+
+
+
+  #candles:hover #smallTwo{
+  transform-origin: center;
+  animation: littleFireTwo 1s infinite;
+  }
+
+  #candles:hover #middle-2{
+  transform-origin: center;
+  animation: middleFireTwo 1s infinite;
+  }
+
+  #candles:hover #smallThree{
+  transform-origin: center;
+  animation: littleFireThree 1s infinite;
+  }
+
+  #candles:hover #middle-3{
+  transform-origin: center;
+  animation: middleFireThree 1s infinite;
+  }
+
+
+  @keyframes littleFire{
+  0%: {transform: scale(1) translateY(0px) translateX(0px);}
+  50% {transform: scale(0.7) translateY(-10px) translateX(3px);}
+  100% {transform: scale(1) translateY(0px) translateX(0px);}
+  }
+  @keyframes middleFire{
+  0%: {transform: scale(1) translateY(0px) translateX(0px);}
+  50% {transform: scale(1.1) translateY(3px) translateX(0px);}
+  100% {transform: scale(1) translateY(0px) translateX(0px);}
+  }
+
+
+
+
+  @keyframes middleFireTwo{
+  0%: {transform: scale(1) translateY(0px) translateX(0px);}
+  50% {transform: scale(1.1) translateY(0px) translateX(3px);}
+  100% {transform: scale(1) translateY(0px) translateX(0px);}
+  }
+
+  @keyframes littleFireTwo{
+  0%: {transform: scale(1) translateY(0px) translateX(0px);}
+  50% {transform: scale(0.7) translateY(-6px) translateX(-13px);}
+  100% {transform: scale(1) translateY(0px) translateX(0px);}
+  }
+
+
+
+
+  @keyframes littleFireThree{
+  0%: {transform: scale(1) translateY(0px) translateX(0px);}
+  50% {transform: scale(0.7) translateY(0px) translateX(13px);}
+  100% {transform: scale(1) translateY(0px) translateX(0px);}
+  }
+
+  @keyframes middleFireThree{
+  0%: {transform: scale(1) translateY(0px) translateX(0px);}
+  50% {transform: scale(1.1) translateY(0px) translateX(-3px);}
+  100% {transform: scale(1) translateY(0px) translateX(0px);}
+  }
+
+
+
+
+
+</style>
+<title>candles</title>
+<ellipse id="bg" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -37.4698 90.4598)" class="st0" cx="90.5" cy="90.5" rx="90.4" ry="90.5"/>
+<g id="candleMiddle">
+
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="49.7397" y1="62.3186" x2="102.2997" y2="50.3886" gradientTransform="matrix(1 0 0 -1 0 182)">
+		<stop  offset="5.000000e-02" style="stop-color:#FCDFD1"/>
+		<stop  offset="8.000000e-02" style="stop-color:#F1CFB8"/>
+		<stop  offset="0.11" style="stop-color:#E7C0A2"/>
+		<stop  offset="0.16" style="stop-color:#DFB591"/>
+		<stop  offset="0.21" style="stop-color:#DAAE86"/>
+		<stop  offset="0.29" style="stop-color:#D7A97F"/>
+		<stop  offset="0.5" style="stop-color:#D6A87D"/>
+		<stop  offset="0.82" style="stop-color:#CB9866"/>
+	</linearGradient>
+	<ellipse class="st1" cx="95" cy="129.9" rx="25.8" ry="5.5"/>
+
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="71.8983" y1="117.6689" x2="116.7183" y2="47.1589" gradientTransform="matrix(1 0 0 -1 0 182)">
+		<stop  offset="5.000000e-02" style="stop-color:#FCDFD1"/>
+		<stop  offset="0.22" style="stop-color:#F3D2BD"/>
+		<stop  offset="0.57" style="stop-color:#DCB18B"/>
+		<stop  offset="0.66" style="stop-color:#D6A87D"/>
+		<stop  offset="0.82" style="stop-color:#CB9866"/>
+	</linearGradient>
+	<rect x="69.2" y="71.3" class="st2" width="51.6" height="58.6"/>
+	<ellipse class="st3" cx="95" cy="71.3" rx="25.8" ry="6.6"/>
+	<ellipse class="st4" cx="95" cy="71.7" rx="22.4" ry="5.8"/>
+	<ellipse class="st5" cx="95.6" cy="71.2" rx="13.3" ry="2.3"/>
+	<path class="st6" d="M95.9,63H96c0.3,0,0.5,0.2,0.5,0.5V71c0,0.3-0.2,0.5-0.5,0.5h-0.1c-0.3,0-0.5-0.2-0.5-0.5v-7.5
+		C95.5,63.2,95.7,63,95.9,63z"/>
+</g>
+<g id="candleLeft">
+
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="57.6867" y1="59.08" x2="57.7967" y2="50.66" gradientTransform="matrix(1 0 0 -1 0 182)">
+		<stop  offset="4.000000e-02" style="stop-color:#FCDFD1"/>
+		<stop  offset="1" style="stop-color:#CB9866"/>
+	</linearGradient>
+	<ellipse class="st7" cx="57.8" cy="132.4" rx="13.6" ry="4.3"/>
+
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="57.5323" y1="95.26" x2="58.0923" y2="49.96" gradientTransform="matrix(1 0 0 -1 0 182)">
+		<stop  offset="4.000000e-02" style="stop-color:#FCDFD1"/>
+		<stop  offset="1" style="stop-color:#CB9866"/>
+	</linearGradient>
+	<rect x="44.2" y="86.1" class="st8" width="27.1" height="46.3"/>
+	<ellipse class="st3" cx="57.8" cy="86.1" rx="13.6" ry="5.2"/>
+	<ellipse class="st4" cx="57.8" cy="86.3" rx="11.8" ry="4.6"/>
+	<ellipse class="st5" cx="58.2" cy="85.9" rx="7" ry="1.8"/>
+	<path class="st6" d="M58.1,80.4h0.2c0.3,0,0.6,0.3,0.6,0.6v5.2c0,0.3-0.3,0.6-0.6,0.6h-0.2c-0.3,0-0.6-0.3-0.6-0.6V81
+		C57.5,80.7,57.7,80.4,58.1,80.4z"/>
+</g>
+<g id="candleRight">
+
+		<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="120.3191" y1="52.0801" x2="120.4091" y2="44.4701" gradientTransform="matrix(1 0 0 -1 0 182)">
+		<stop  offset="4.000000e-02" style="stop-color:#FCDFD1"/>
+		<stop  offset="1" style="stop-color:#CB9866"/>
+	</linearGradient>
+	<ellipse class="st9" cx="120.4" cy="138.4" rx="18.3" ry="3.9"/>
+
+		<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="120.1572" y1="84.79" x2="120.6772" y2="43.76" gradientTransform="matrix(1 0 0 -1 0 182)">
+		<stop  offset="4.000000e-02" style="stop-color:#FCDFD1"/>
+		<stop  offset="1" style="stop-color:#CB9866"/>
+	</linearGradient>
+	<rect x="102.1" y="96.7" class="st10" width="36.6" height="41.8"/>
+	<ellipse class="st3" cx="120.4" cy="96.7" rx="18.3" ry="4.7"/>
+	<ellipse class="st4" cx="120.4" cy="96.9" rx="15.9" ry="4.1"/>
+	<ellipse class="st5" cx="120.9" cy="96.6" rx="9.5" ry="1.6"/>
+	<path class="st6" d="M120.9,90.5h0.2c0.3,0,0.6,0.3,0.6,0.6v5.2c0,0.3-0.3,0.6-0.6,0.6h-0.2c-0.3,0-0.6-0.3-0.6-0.6V91
+		C120.3,90.7,120.6,90.5,120.9,90.5z"/>
+</g>
+<g id="fireMiddle">
+	<path id="big" class="st11" d="M108.3,55c0,6.6-5.1,8.6-12.3,12c-7.9-2.7-12.3-5.4-12.3-12c0.2-6.8,5.9-12.2,12.7-12
+		C102.9,43.2,108.1,48.5,108.3,55z"/>
+	<path id="middle" class="st12" d="M105.8,57.5c0,5.2-4,6.8-9.8,9.5c-6.2-2.2-9.8-4.3-9.8-9.5c0.2-5.4,4.7-9.7,10.1-9.5
+		C101.5,48.1,105.6,52.3,105.8,57.5z"/>
+	<path id="small" class="st13" d="M102.2,61.2c0,3.4-2.6,4.4-6.2,6.1c-4-1.4-6.3-2.7-6.3-6.1c0.1-3.5,3.1-6.1,6.5-6
+		C99.5,55.3,102.1,57.9,102.2,61.2z"/>
+</g>
+<g id="fireLeft">
+	<path id="big-2" class="st11" d="M67.1,74.1c0,5-3.8,6.5-9.3,9c-5.9-2.1-9.3-4-9.3-9c0-5.1,4.2-9.3,9.3-9.3
+		C62.9,64.8,67.1,69,67.1,74.1z"/>
+	<path id="middle-2" class="st12" d="M65.2,76c0,4-3,5.1-7.4,7.2c-4.7-1.7-7.4-3.2-7.4-7.2c0-4.1,3.3-7.4,7.4-7.4
+		C61.9,68.6,65.2,71.9,65.2,76z"/>
+	<path id="smallTwo" class="st13" d="M62.5,78.8c0,2.5-1.9,3.3-4.7,4.6c-3-1-4.7-2-4.7-4.6c0-2.6,2.1-4.7,4.7-4.7
+		C60.4,74,62.5,76.1,62.5,78.8z"/>
+</g>
+<g id="fireRight">
+	<path id="big-3" class="st11" d="M129.3,85.6c0,4.2-3.3,5.5-7.9,7.7c-5-1.8-7.9-3.4-7.9-7.7c0-4.4,3.6-7.9,7.9-7.9
+		S129.3,81.2,129.3,85.6z"/>
+	<path id="middle-3" class="st12" d="M127.6,87.2c0,3.4-2.6,4.4-6.3,6.1c-4-1.4-6.3-2.7-6.3-6.1c0-3.5,2.8-6.3,6.3-6.3
+		C124.8,80.9,127.6,83.7,127.6,87.2z"/>
+	<path id="smallThree" class="st13" d="M125.3,89.6c0,2.2-1.6,2.8-4,3.9c-2.6-0.9-4-1.7-4-3.9c0-2.2,1.8-4,4-4S125.3,87.4,125.3,89.6z"
+		/>
+</g>
+</svg>
