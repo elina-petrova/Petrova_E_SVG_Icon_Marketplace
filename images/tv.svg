@@ -39,23 +39,24 @@
 opacity: 0;
 }
   #tv:hover #count3{
-  animation: changeScreen 5s linear 1s 1;
+  animation: changeScreen 3s linear 0.5s 1;
   }
 
   #tv:hover #count2{
 
-  animation: changeScreen 5s linear 3s 1;
+  animation: changeScreen 3s linear 3.5s 1;
 
   }
 
   #tv:hover #count1{
 
-  animation: changeScreen 5s linear 6s 1;
+  animation: changeScreen 3s linear 6.5s 1;
 
   }
 
   @keyframes changeScreen{
-  0%{ opacity: 1; }
+  0%{ opacity: 0; }
+	10%{ opacity: 1; }
   100%{ opacity: 0;}
   }
 
