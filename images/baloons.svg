@@ -32,6 +32,7 @@
 	.st26{fill:#CFC4CF;}
 
 	#ballon1, #ballon2, #ballon3, #ballon24, #ballon5{
+	-moz-transition: transform 2s ease-in-out;
 	transition: transform 2s ease-in-out;
 	}
 	#Layer_1:hover #ballon1{
