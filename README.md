@@ -1,11 +1,14 @@
-![logo](/images/fov.svg)
+![logo](/images/fox.svg)
 # How to live happily : Icon Set
-### *Welcome to my Icon Marketplace project! * 
+### Welcome to my Icon Marketplace project!
 
 
 ## About
 This page was made with HTML, CSS and JavaScript. Here you can see vector illustrations, which
 are animated with CSS. There is also JavaScript interaction.
+
+## Prerequisites
+I would suggest using Google Chrome browser.
 
 
 ## Authors
