@@ -1,6 +1,11 @@
-![logo](/images/fox.svg)
-# How to live happily : Icon Set
-### Welcome to my Icon Marketplace project!
+
+  
+
+ 
+  
+ # How to live happily : Icon Set
+
+*Welcome to my Icon Marketplace project!*
 
 
 ## About
@@ -16,3 +21,5 @@ Petrova Elina - developer and designer.
 
 ## Licence
 All rights reserved. 
+
+<img src="images/music.svg" width="100">
